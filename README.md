@@ -161,6 +161,3 @@ Use transfer learning (MobileNetV2, EfficientNet) for higher accuracy
 
 Deploy as a desktop app with PyQt or web app with Streamlit/Flask
 
-👤 Author-Sayantika Mondal
-
-Machine Learning Intern @ Skillcraft Technology
